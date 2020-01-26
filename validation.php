@@ -12,15 +12,15 @@ return [
     |
     */
 
-    'accepted' => 'The :attribute must be accepted.',
-    'active_url' => 'The :attribute is not a valid URL.',
-    'after' => 'The :attribute must be a date after :date.',
-    'after_or_equal' => 'The :attribute must be a date after or equal to :date.',
-    'alpha' => 'The :attribute may only contain letters.',
-    'alpha_dash' => 'The :attribute may only contain letters, numbers, and dashes.',
-    'alpha_num' => 'The :attribute may only contain letters and numbers.',
-    'array' => 'The :attribute must be an array.',
-    'before' => 'The :attribute must be a date before :date.',
+    'accepted' => ':attribute doit être accepté.',
+    'active_url' => ':attribute n\'est pas un URL valide.',
+    'after' => ':attribute doit être une date après :date.',
+    'after_or_equal' => ':attribute doit être une date après ou égale à :date.',
+    'alpha' => ':attribute may only contain letters.',
+    'alpha_dash' => ':attribute ne peut contenir que des lettres, des chiffres, et des tirets.',
+    'alpha_num' => ':attribute ne peut contenir que des lettres et des nombres.',
+    'array' => ':attribute doit être un tableau.',
+    'before' => ':attribute doit être une date avant :date.',
     'before_or_equal' => 'The :attribute must be a date before or equal to :date.',
     'between' => [
         'numeric' => 'The :attribute must be between :min and :max.',
