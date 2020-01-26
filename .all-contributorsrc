@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "MIMIGAMING83",
+      "name": "MIMIGAMING83",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/46751791?v=4",
+      "profile": "https://github.com/MIMIGAMING83",
+      "contributions": [
+        "translation"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Traduction",
+  "projectOwner": "Umbo-France",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
