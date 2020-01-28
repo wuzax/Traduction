@@ -2,6 +2,7 @@
 
 return [
     'email' => 'E-mail',
+    'point' => 'Diamants',
     'user_identifier' => 'Pseudo ou e-mail',
     'password' => 'Mot de passe',
     'confirm_password' => 'Confirmer le mot de passe',
