@@ -1,6 +1,6 @@
 # Traduction
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![Contributeurs](https://img.shields.io/badge/Tout_les_contributeurs-1-orange.svg?style=flat-square)](#contributors-)
+[![Contributeurs](https://img.shields.io/badge/Tous_les_contributeurs-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 > Fichiers à traduire de l'anglais vers le français pour optimiser l'expérience utilisateur sur notre panel de gestion des instances NodeJs
 
