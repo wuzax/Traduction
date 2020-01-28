@@ -42,7 +42,7 @@ return [
     'file' => ':attribute doit être un fichier.',
     'filled' => 'Le champ :attribute est requis.',
     'image' => ':attribute doit être une image.',
-    'in' => 'L\' :attribute sélectionné n'est pas valide.',
+    'in' => 'L\' :attribute sélectionné n\'est pas valide.',
     'in_array' => 'Le champ :attribute n'existe pas dans :other.',
     'integer' => ':attribute doit être en entier.',
     'ip' => ':attribute doit être une adresse IP valide.',
