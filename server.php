@@ -28,7 +28,7 @@ return [
         ],
         'actions' => [
             'command' => 'Envoyer une commande',
-            'power' => 'Actions d'alimentation',
+            'power' => 'Actions d\'alimentation',
         ],
         'toggle' => 'Basculer le status',
         'run_now' => 'Déclencher le programme',
@@ -39,7 +39,7 @@ return [
         'day_of_week' => 'Jour de la semaine',
         'day_of_month' => 'Jour du mois',
         'hour' => 'heure du jour',
-        'minute' => 'Minute de l'heure',
+        'minute' => 'Minute de l\'heure',
         'time_help' => 'The schedule system supports the use of Cronjob syntax when defining when tasks should begin running. Use the fields above to specify when these tasks should begin running or select options from the multiple select menus.',
         'task_help' => 'Times for tasks are relative to the previously defined task. Each schedule may have no more than 5 tasks assigned to it and tasks may not be scheduled more than 15 minutes apart.',
     ],
