@@ -40,7 +40,7 @@ return [
         'day_of_month' => 'Jour du mois',
         'hour' => 'heure du jour',
         'minute' => 'Minute de l\'heure',
-        'time_help' => 'The schedule system supports the use of Cronjob syntax when defining when tasks should begin running. Use the fields above to specify when these tasks should begin running or select options from the multiple select menus.',
+        'time_help' => 'Le système de planification prend en charge l\'utilisation de la syntaxe Cronjob lors de la définition du moment où les tâches doivent commencer à s\'exécuter. Utilisez les champs ci-dessus pour spécifier quand ces tâches doivent commencer à s\'exécuter ou sélectionnez des options dans les multiples menus de sélection.',
         'task_help' => 'Times for tasks are relative to the previously defined task. Each schedule may have no more than 5 tasks assigned to it and tasks may not be scheduled more than 15 minutes apart.',
     ],
     'tasks' => [
