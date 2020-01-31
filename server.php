@@ -41,7 +41,7 @@ return [
         'hour' => 'Heure',
         'minute' => 'Minute',
         'time_help' => 'Le système de planification prend en charge l\'utilisation de la syntaxe Cronjob lors de la définition du moment ou les tâches doivent commencer à s\'executer. Utilisez les champs ci-dessus pour spécifier quand ces tâches doivent commencer à s\'executer ou sélectionnez des options dans les multiples menus de sélection.',
-        'task_help' => ' Le temps pour les tâches est relatif à l'ancienne tâche définie. Chaque programmes ne doivent pas avoir plus de 5 tâches assignés pour ça et les tâches ne peuvent pas être programmés pour plus de 15 minutes.',
+        'task_help' => ' Le temps pour les tâches est relatif à l\'ancienne tâche définie. Chaque programmes ne doivent pas avoir plus de 5 tâches assignés pour ça et les tâches ne peuvent pas être programmés pour plus de 15 minutes.',
     ],
     'tasks' => [
         'task_created' => 'Une nouvelle tâche à été ajoutée avec succès sur le panneau.',
