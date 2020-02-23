@@ -13,7 +13,7 @@ Merci beaucoup à ces personnes !
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/MIMIGAMING83"><img src="https://avatars2.githubusercontent.com/u/46751791?v=4" width="100px;" alt=""/><br /><sub><b>MIMIGAMING83</b></sub></a><br /><a href="#translation-MIMIGAMING83" title="Traduction">🌍</a></td>
+    <td align="center"><a href="https://github.com/MIMIGAMING83"><img src="https://avatars2.githubusercontent.com/u/46751791?v=4" width="100px;" alt=""/><br /><sub><b>FrYz0</b></sub></a><br /><a href="#translation-MIMIGAMING83" title="Traduction">🌍</a></td>
   </tr>
 </table>
 
