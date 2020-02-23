@@ -129,8 +129,8 @@ return [
                 'description' => 'Autoriser l\'envoi de commandes dans la console. Si l\'utilisateur n\à pas les permissions arrêter ou redémarrer, il ne pourra pas envoyer la commande d\'arrêt.',
             ],
             'access_sftp' => [
-                'title' => 'SFTP Allowed',
-                'description' => 'Allows user to connect to the SFTP server provided by the daemon.',
+                'title' => 'SFTP AUTORISÉ',
+                'description' => 'Permet à l\'utilisateur de se connecter au serveur SFTP fourni par le démon.',
             ],
             'list_files' => [
                 'title' => 'List Files',
