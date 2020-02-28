@@ -145,36 +145,36 @@ return [
                 'description' => 'Autoriser des utilisateurs à sauvegarder des fichiers. SFTP n\'est pas affécté par cette permission.',
             ],
             'move_files' => [
-                'title' => 'Rename & Move Files',
-                'description' => 'Allows user to move and rename files and folders on the filesystem.',
+                'title' => 'Renommer & déplacer des fichiers',
+                'description' => 'Autoriser des utilisateurs à copier et déplacer des fichiers sur le système de fichiers.',
             ],
             'copy_files' => [
                 'title' => 'Copier des fichiers',
-                'description' => 'Autoriser des utilisateurs à copier des fichiers.',
+                'description' => 'Autoriser des utilisateurs à copier des fichiers et dossiers.',
             ],
             'compress_files' => [
                 'title' => 'Compresser des fichiers',
-                'description' => 'Autoriser des utilisateurs à compresser des fichiers.',
+                'description' => 'Autoriser des utilisateurs à compresser des fichiers et dossiers en une archive.',
             ],
             'decompress_files' => [
                 'title' => 'Decompresser des fichiers',
-                'description' => 'Autoriser des utilisateurs à decompresser des .zip et .tar(.gz).',
+                'description' => 'Autoriser des utilisateurs à decompresser des archives de type ".zip" et ".tar(.gz)".',
             ],
             'create_files' => [
-                'title' => 'Crer des fichiers',
-                'description' => 'Autoriser des utilisateurs à crer des fichiers.',
+                'title' => 'Créer des fichiers',
+                'description' => 'Autoriser des utilisateurs à créer des fichiers et dossiers.',
             ],
             'upload_files' => [
-                'title' => 'Uploader des fichiers',
-                'description' => 'Autoriser des utilisateurs à uploader des fichiers.',
+                'title' => 'Mettre en ligne des fichiers',
+                'description' => 'Autoriser des utilisateurs à Mettre en ligne des fichiers et dossiers.',
             ],
             'delete_files' => [
-                'title' => 'Suprimer des fichiers',
-                'description' => 'Autoriser des utilisateurs à suprimer des fichiers.',
+                'title' => 'Supprimer des fichiers',
+                'description' => 'Autoriser des utilisateurs à supprimer des fichiers et dossiers.',
             ],
             'download_files' => [
                 'title' => 'Télécharger des fichiers',
-                'description' => 'Allows user to download files. If a user is given this permission they can download and view file contents even if that permission is not assigned on the panel.',
+                'description' => 'Autoriser des utilisateurs à télécharger des fichiers. Si un utilisateur à cette permission, il peut télécharger et regarder le contenu des fichiers même si cette permission n\'est pas assignée au panel.',
             ],
             'list_subusers' => [
                 'title' => 'List Subusers',
