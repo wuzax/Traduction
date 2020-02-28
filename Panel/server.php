@@ -142,38 +142,38 @@ return [
             ],
             'save_files' => [
                 'title' => 'Sauvegarder des fichiers',
-                'description' => 'Allows user to save modified file contents. SFTP n\'est pas affécté par cette permission.',
+                'description' => 'Autoriser des utilisateurs à sauvegarder des fichiers. SFTP n\'est pas affécté par cette permission.',
             ],
             'move_files' => [
                 'title' => 'Rename & Move Files',
                 'description' => 'Allows user to move and rename files and folders on the filesystem.',
             ],
             'copy_files' => [
-                'title' => 'Copy Files',
-                'description' => 'Allows user to copy files and folders on the filesystem.',
+                'title' => 'Copier des fichiers',
+                'description' => 'Autoriser des utilisateurs à copier des fichiers.',
             ],
             'compress_files' => [
-                'title' => 'Compress Files',
-                'description' => 'Allows user to make archives of files and folders on the system.',
+                'title' => 'Compresser des fichiers',
+                'description' => 'Autoriser des utilisateurs à compresser des fichiers.',
             ],
             'decompress_files' => [
-                'title' => 'Decompress Files',
-                'description' => 'Allows user to decompress .zip and .tar(.gz) archives.',
+                'title' => 'Decompresser des fichiers',
+                'description' => 'Autoriser des utilisateurs à decompresser des .zip et .tar(.gz).',
             ],
             'create_files' => [
-                'title' => 'Create Files',
-                'description' => 'Allows user to create a new file within the panel.',
+                'title' => 'Crer des fichiers',
+                'description' => 'Autoriser des utilisateurs à crer des fichiers.',
             ],
             'upload_files' => [
-                'title' => 'Upload Files',
-                'description' => 'Allows user to upload files through the file manager.',
+                'title' => 'Uploader des fichiers',
+                'description' => 'Autoriser des utilisateurs à uploader des fichiers.',
             ],
             'delete_files' => [
-                'title' => 'Delete Files',
-                'description' => 'Allows user to delete files from the system.',
+                'title' => 'Suprimer des fichiers',
+                'description' => 'Autoriser des utilisateurs à suprimer des fichiers.',
             ],
             'download_files' => [
-                'title' => 'Download Files',
+                'title' => 'Télécharger des fichiers',
                 'description' => 'Allows user to download files. If a user is given this permission they can download and view file contents even if that permission is not assigned on the panel.',
             ],
             'list_subusers' => [
