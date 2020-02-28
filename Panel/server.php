@@ -129,20 +129,20 @@ return [
                 'description' => 'Autoriser l\'envoi de commandes dans la console. Si l\'utilisateur n\à pas les permissions arrêter ou redémarrer, il ne pourra pas envoyer la commande d\'arrêt.',
             ],
             'access_sftp' => [
-                'title' => 'SFTP AUTORISÉ',
-                'description' => 'Permet à l\'utilisateur de se connecter au serveur SFTP fourni par le démon.',
+                'title' => 'Autorisation SFTP',
+                'description' => 'Autoriser des utilisateurs à se connecter au serveur SFTP fourni par le daemon.',
             ],
             'list_files' => [
-                'title' => 'List Files',
-                'description' => 'Allows user to list all files and folders on the server but not view file contents.',
+                'title' => 'Lister les fichiers',
+                'description' => 'Autoriser des utilisateurs à avoir une liste de tout le fichiers et dossiers sans pouvoir voir le contenu des fichiers.',
             ],
             'edit_files' => [
-                'title' => 'Edit Files',
-                'description' => 'Allows user to open a file for viewing only. SFTP is not effected by this permission.',
+                'title' => 'Editer des fichiers',
+                'description' => 'Autoriser des utilisateurs à ouvrir un fichier juste pour le voir. SFTP n\'est pas affécté par cette permission.',
             ],
             'save_files' => [
-                'title' => 'Save Files',
-                'description' => 'Allows user to save modified file contents. SFTP is not effected by this permission.',
+                'title' => 'Sauvegarder des fichiers',
+                'description' => 'Allows user to save modified file contents. SFTP n\'est pas affécté par cette permission.',
             ],
             'move_files' => [
                 'title' => 'Rename & Move Files',
